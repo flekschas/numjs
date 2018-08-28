@@ -1,7 +1,7 @@
 {
   "name": "numjs",
   "version": "0.16.0",
-  "description": "Like NumPy, in JavaScript",
+  "description": "Like NumPy in JavaScript but without image editing",
   "main": "src/index.js",
   "directories": {
     "test": "test"
@@ -14,7 +14,6 @@
     "ndarray-fft": "^1.0.0",
     "ndarray-gemm": "^1.0.0",
     "ndarray-ops": "^1.2.2",
-    "sharp": "^0.20.3",
     "typedarray-pool": "^1.1.0"
   },
   "devDependencies": {
